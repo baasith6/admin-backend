@@ -1,5 +1,5 @@
 const path = require('path');
-const PlantDisease = require('../models/plantDisease.model');
+const PlantDisease = require('../models/PlantDisease.model');
 
 const normalizePath = (value) => value.replace(/\\/g, '/');
 

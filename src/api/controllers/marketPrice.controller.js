@@ -1,4 +1,4 @@
-const MarketPrice = require('../models/marketPrice.model');
+const MarketPrice = require('../models/MarketPrice.model');
 const mongoose = require('mongoose');
 
 // @desc    புதிய சந்தை விலையை உருவாக்குதல்
